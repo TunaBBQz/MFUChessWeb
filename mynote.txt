@@ -1,0 +1,3 @@
+small: less than 640px
+medium: 641px - 1024px
+large: more than 1025px
